@@ -14,9 +14,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ashishraj-hub/SMS-Spam-detection-bootcamp-project">Repository</a> •
-  <a href="https://github.com/ashishraj-hub/SMS-Spam-detection-bootcamp-project/blob/main/SMS%20Spam%20detection%20bootcamp%20project.ipynb">Notebook</a> •
-  <a href="https://github.com/ashishraj-hub/SMS-Spam-detection-bootcamp-project/blob/main/spam.csv">Dataset</a>
+  <a href="https://github.com/AnshuRaj1201/SMS-Spam-detection-bootcamp-project">Repository</a> •
+  <a href="https://github.com/AnshuRaj1201/SMS-Spam-detection-bootcamp-project/blob/main/SMS%20Spam%20detection%20bootcamp%20project.ipynb">Notebook</a> •
+  <a href="https://github.com/AnshuRaj1201/SMS-Spam-detection-bootcamp-project/blob/main/spam.csv">Dataset</a>
 </p>
 
 ---
@@ -647,9 +647,9 @@ See the [`LICENSE`](LICENSE) file for details.
 
 ## 👤 Author
 
-**Ashish Raj**
+**Anshu Raj**
 
-GitHub: [@ashishraj-hub](https://github.com/ashishraj-hub)
+GitHub: [@anshuraj-hub](https://github.com/AnshuRaj1201)
 
 ---
 
