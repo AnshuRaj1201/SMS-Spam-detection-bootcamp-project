@@ -408,7 +408,7 @@ Make sure you have:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/ashishraj-hub/SMS-Spam-detection-bootcamp-project.git
+git clone https://github.com/AnshuRaj1201/SMS-Spam-detection-bootcamp-project.git
 cd SMS-Spam-detection-bootcamp-project
 ```
 
